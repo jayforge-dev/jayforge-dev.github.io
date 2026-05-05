@@ -4,8 +4,8 @@ Welcome to my **portfolio**! Here, you'll find a collection of my **backend deve
 
 ## About Me
 
-I’m an **independent and proactive developer** with **5 years of experience** in **backend development**. Skilled in **Java**, **Spring Boot**, **FastAPI**, **PostgreSQL**, and **TypeScript**, I specialize in building **scalable systems** and delivering **efficient, high-quality solutions**. I am a **quick learner** and enjoy tackling complex problems, optimizing systems, and delivering fast results.
-
+I’m an **independent and proactive developer** with **5 years of experience** in **backend development**. Skilled in **Java**, **Spring Boot**, **FastAPI**, **PostgreSQL**, and **TypeScript**, I specialize in building **scalable systems** and delivering **efficient, high-quality solutions**.  
+I am a **quick learner** and enjoy tackling complex problems, optimizing systems, and delivering fast results.
 
 
 ## Skills & Technologies
@@ -21,8 +21,9 @@ You can find detailed information about my projects in the **Projects** section 
 
 Here are a few key projects:
 
-- **[Task Manager API](https://github.com/rs-jayanth/flask-auth-crud)** – Flask API with JWT authentication and task CRUD operations.  
+- **[E-Commerce Microservices Platform](https://github.com/rs-jayanth/e-commerce-microservices)** - Event-driven microservices system with Kafka, Outbox pattern, and distributed transaction handling.
 
+- **[Task Manager API](https://github.com/rs-jayanth/flask-auth-crud)** – Flask API with JWT authentication and task CRUD operations. 
 
 
 ## Live Demo
