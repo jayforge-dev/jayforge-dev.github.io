@@ -1,39 +1,36 @@
-# Jayanth's Portfolio
+# Hi, I'm JayForge 👋
 
-Welcome to my **portfolio**! Here, you'll find a collection of my **backend development projects** and **full-stack applications** that demonstrate my expertise in building scalable, secure, and efficient software systems.
+Game developer focused on Unity system-driven gameplay, simulation, and management games, with 5 years of prior experience as a software engineer building scalable backend systems and distributed architectures.
 
-## About Me
+## 🔧 Technologies
 
-I’m an **independent and proactive developer** with **5 years of experience** in **backend development**. Skilled in **Java**, **Spring Boot**, **FastAPI**, **PostgreSQL**, and **TypeScript**, I specialize in building **scalable systems** and delivering **efficient, high-quality solutions**.  
-I am a **quick learner** and enjoy tackling complex problems, optimizing systems, and delivering fast results.
-
-
-## Skills & Technologies
-
-- **Backend**: Java, Python, Spring Boot, FastAPI, Flask, Typescript
-- **Databases**: PostgreSQL, MySQL, MongoDB
+- **Game Development**: Unity, C#, Gameplay Systems, AI, Simulation Design  
+- **Backend**: Java, Spring Boot, Python, FastAPI, Flask, TypeScript  
+- **Databases**: PostgreSQL, MySQL, MongoDB  
 - **Messaging**: Kafka, RabbitMQ  
-- **DevOps & Tools**: Docker, Git, Jenkins
-
-## Projects
-
-You can find detailed information about my projects in the **Projects** section of my GitHub Pages site.
-
-Here are a few key projects:
-
-- **[E-Commerce Microservices Platform](https://github.com/rs-jayanth/e-commerce-microservices)** - Event-driven microservices system with Kafka, Outbox pattern, and distributed transaction handling.
-
-- **[Task Manager API](https://github.com/rs-jayanth/flask-auth-crud)** – Flask API with JWT authentication and task CRUD operations. 
-
-
-## Live Demo
-
-Check out my **[GitHub Pages Portfolio](https://rs-jayanth.github.io)** to see my projects in action.
-
-
-## Contact Me
-
-- **GitHub:** [jayanth](https://github.com/rs-jayanth)  
-- **Email:** jayanth.rs@outlook.com
+- **Tools**: Docker, Git, Jenkins  
 
 ---
+
+## 📂 Featured Projects
+
+### 🎮 Game Development
+
+- **[Cinema Rush](https://jayforge.itch.io/cinema-rush)**  
+  Unity-based idle/tycoon simulation game featuring customer AI systems, queue management, progression mechanics, and system-driven gameplay architecture.
+
+---
+
+### 💻 Software Engineering
+
+- **[E-Commerce Microservices Platform](https://github.com/jayforge-dev/e-commerce-microservices)**  
+  Event-driven microservices system using Kafka, Outbox pattern, and distributed transaction workflows.
+
+- **[Task Manager API](https://github.com/jayforge-dev/flask-auth-crud)**  
+  Flask-based backend system with JWT authentication and task management.
+
+---
+
+## 🌐 Portfolio
+
+Visit [JayForge](https://jayforge-dev.github.io) for detailed project breakdowns, technical highlights, and development insights.

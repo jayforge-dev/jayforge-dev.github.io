@@ -1,11 +1,13 @@
 ---
 layout: default
-title: My Projects
+title: Software Projects
 ---
 
-# My Projects
+# Software Projects
 
-Below are some of the projects I’ve built. Click the links to view the code on GitHub or see live demos (if available).
+A collection of backend and software engineering projects built with Java, Python, and modern backend technologies.
+
+Projects include descriptions, technologies used, feature highlights, screenshots, and GitHub source code.
 
 ---
 
@@ -32,16 +34,16 @@ Demonstrates real-world backend engineering concepts such as distributed systems
 - Redis-based token invalidation on user deletion
 - Idempotent event processing (prevents duplicate operations)
 
-**GitHub**: [View Repository](https://github.com/rs-jayanth/e-commerce-microservices)  
+**GitHub**: [View Repository](https://github.com/jayforge-dev/e-commerce-microservices)  
 
 ### 🧠 Architecture
-![E-Commerce Microservices Architecture](screenshots/microservices-architecture.png)
+![E-Commerce Microservices Architecture](/screenshots/software/microservices-architecture.png)
 *Event-driven microservices architecture using Kafka and the Outbox pattern 
 to ensure reliable event publishing and eventual consistency.*
 
 ### 🔄 Order Lifecycle (Success & Failure)
 
-![Order Lifecycle](screenshots/event-driven-order-lifecycle-success-failure.png)
+![Order Lifecycle](/screenshots/software/event-driven-order-lifecycle-success-failure.png)
 *End-to-end order processing showing both successful execution and failure handling with compensation (product release).*
 
 ---
@@ -63,10 +65,10 @@ Demonstrates secure API design, user-specific data handling, and authentication 
 - Secure API routes with **token-based** access.
 - Lightweight JSON storage for simplicity
 
-**GitHub**: [View Repository](https://github.com/rs-jayanth/flask-auth-crud)  
+**GitHub**: [View Repository](https://github.com/jayforge-dev/flask-auth-crud)  
 
 **Screenshot**:  
-![Task Manager API Screenshot](screenshots/task_manager_cURL.png)
+![Task Manager API Screenshot](/screenshots/software/task_manager_cURL.png)
 
 ---
 

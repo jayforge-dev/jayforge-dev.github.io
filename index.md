@@ -3,55 +3,78 @@ layout: default
 title: My Portfolio
 ---
 
-# Hi, I'm Jayanth 👋
+# Hi, I'm JayForge 👋
 
-I’m an **independent and proactive developer** with **5 years of experience** in building **scabale, event-driven systems.**  
-I specialize in **Java(Spring Boot)**, **Python(FastAPI)**, and **TypeScript**, with hands-on experience designing **microservices architectures, distributed workflows, and reliable backend systems.**
+Game developer focused on **Unity system-driven gameplay**, simulation, and management games, with **5 years of experience** as a software engineer building **scalable systems, backend applications, and distributed architectures.**
 
-I am a **quick learner** who enjoys tackling complex problems, debugging issues, and delivering **reliable solutions efficiently**. Whether working independently or as part of a team, I consistently focus on delivering **fast, high-quality results**.
+I work with **Unity (C#), Java, Python, and TypeScript**, applying backend engineering experience to build **robust gameplay systems and backend architectures**, including **microservices** and event-driven systems.
+
+I enjoy solving complex system problems—whether in **backend architecture, debugging distributed systems**, or designing **engaging gameplay loops and simulations**. My focus is on building **clean, maintainable, and scalable systems** across both software and game development domains.
+
+Currently open to:  
+- 🎮 Game Developer roles  
+- 🧪 QA / Game Testing roles  
+- 💻 Freelance Software Engineering work  
 
 ---
-### 🔧 Skills & Technologies
 
-- **Backend**: Java, Spring Boot, Python, FastAPI, Flask, Typescript
+## 🔧 Skills & Technologies
+
+- **Game Development**: Unity, C#, Gameplay Systems, AI Navigation (NavMesh), Simulation Design
+- **Backend & Systems**: Java, Spring Boot, Python, FastAPI, Flask, TypeScript  
 - **Databases**: PostgreSQL, MySQL, MongoDB  
-- **Messaging & Queueing**: Kafka, RabbitMQ  
-- **DevOps & Tools**: Docker, Git, Jenkins 
+- **Messaging & Distributed Systems**: Kafka, RabbitMQ, Event-Driven Architecture  
+- **DevOps & Tools**: Docker, Git, Jenkins  
 
 ---
 
-### 🚀 What I Focus On
-* Designing event-driven and distributed systems
-* Building scalable and fault-tolerant backend services
-* Implementing reliable workflows (Outbox, retries, idempotency)
-* Debugging and optimizing complex production issues
+## 🚀 Core Focus Areas
+
+- Designing scalable, event-driven backend systems  
+- Building reliable APIs and distributed workflows  
+- Developing system-driven gameplay and simulation mechanics  
+- Creating maintainable Unity architectures and gameplay loops  
+- Debugging, optimization, and root-cause problem solving  
+- Delivering production-ready features in remote and independent environments  
 
 ---
 
-### 🚀 Work Approach
+## 🧠 Work Approach
 
-- **Independent & proactive** – Able to take ownership of projects and deliver end-to-end solutions.
-- **Quick learner** – Adapt rapidly to new technologies and frameworks.
-- **Efficient delivery** – Focus on producing **clean, maintainable, and functional code** fast.
-- **Problem solver** – Enjoy debugging, analyzing issues, and optimizing systems.
-
----
-
-### 📂 Projects
-
-- **[E-Commerce Microservices Platform](https://github.com/rs-jayanth/e-commerce-microservices)**  
-  Event-driven microservices system with Kafka, Outbox pattern, and distributed transaction handling.
-
-- **[Task Manager API](https://github.com/rs-jayanth/flask-auth-crud)**  
- Flask-based API with JWT authentication and task management.
-
- 👉 [View Detailed Projects](/projects.md)
-
-*(More projects coming soon…)*
+- **Systems-first mindset** - I focus on architecture, scalability, and long-term maintainability  
+- **Independent execution** - Comfortable owning features end-to-end in remote environments  
+- **Fast adaptation** - Quick to learn new tools, engines, and frameworks  
+- **Debug-driven development** - Strong focus on identifying and solving complex issues  
+- **Collaborative when needed** - Effective in both solo and team-based workflows  
 
 ---
 
-### 📬 Contact Me
- 
-- **GitHub:** [jayanth](https://github.com/rs-jayanth)  
-- **Email:** jayanth.rs@outlook.com
+## 📂 Featured Projects
+
+### 🎮 Game Projects (Primary)
+
+- **[Cinema Rush](https://jayforge.itch.io/cinema-rush)**  
+  Unity-based idle/tycoon simulation game featuring customer AI systems, queue management, seating logic, progression mechanics, and UI-driven gameplay flow.
+
+  👉 [Detailed Game Projects](/projects/games.md)
+
+---
+
+### 💻 Software Projects (Professional Background)
+
+- **[E-Commerce Microservices Platform](https://github.com/jayforge-dev/e-commerce-microservices)**  
+  Event-driven microservices architecture using Kafka, Outbox pattern, and distributed transaction handling.
+
+- **[Task Manager API](https://github.com/jayforge-dev/flask-auth-crud)**  
+  Flask-based backend system with JWT authentication and CRUD task workflows.
+
+  👉 [Detailed Software Projects](/projects/software.md)
+
+---
+
+ ## 📬 Contact
+
+- **GitHub:** [JayForge](https://github.com/jayforge-dev)  
+- **itch.io:** [JayForge](https://jayforge.itch.io)
+- **LinkedIn:** [Jay](https://linkedin.com/in/jayforge)
+- **Email:** [jayforge.dev@outlook.com](mailto:jayforge.dev@outlook.com)
