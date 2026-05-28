@@ -3,7 +3,7 @@ layout: default
 title: Game Projects
 ---
 
-# Game Projects
+← [Home](/)
 
 Unity game development projects focused on gameplay systems, progression mechanics, UI/UX, and interactive simulation experiences.
 

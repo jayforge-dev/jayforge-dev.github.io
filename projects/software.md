@@ -3,7 +3,7 @@ layout: default
 title: Software Projects
 ---
 
-# Software Projects
+← [Home](/)
 
 A collection of backend and software engineering projects built with Java, Python, and modern backend technologies.
 
