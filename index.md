@@ -62,5 +62,4 @@ Currently seeking opportunities in:
 
 - **GitHub:** [JayForge](https://github.com/jayforge-dev)  
 - **itch.io:** [JayForge](https://jayforge.itch.io)
-- **LinkedIn:** [JayForge](https://linkedin.com/in/jayforge)
 - **Email:** [jayforge.dev@outlook.com](mailto:jayforge.dev@outlook.com)
